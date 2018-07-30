@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/cnam/security-jwt-service-provider" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/firebase/php-jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/pimple/pimple" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/silex/silex" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/symfony/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/symfony/polyfill-php56" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/symfony/polyfill-php70" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/symfony/polyfill-util" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/symfony/property-access" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/symfony/security" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/twig/twig" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

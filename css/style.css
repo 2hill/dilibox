@@ -1,0 +1,77 @@
+body {
+	background: url('bg.jpg') fixed center center no-repeat;
+	background-size: cover;
+	width: 100%;
+	color: white;
+}
+.day:hover {
+    background-color:lightblue;
+    cursor:pointer;
+}
+
+.day.active
+{
+    color:blue;
+}
+.nav {
+     background-color: transparent;
+}
+.nav  a {
+     color: white;
+		 font-weight: bold;
+
+}
+.datetimepicker {
+	background-color: black;
+}
+.table-striped > tbody > tr:nth-child(odd) {
+   background-color: transparent;
+}
+.table-striped > tbody > tr:nth-child(even) {
+	background-color:red ;
+}
+.crudedit {
+	background-color: #0098cb;
+	border-radius: 5px;
+}
+.crudelete {
+	background-color: rgb(237, 34, 34);
+	border-radius: 5px;
+}
+.center_form {
+    margin: 0 auto;
+    width:80%;
+}
+.accueil {
+    font-size: 55px;
+    font-family: arial;
+}
+
+input[type="text"], input[type="password"]{
+    outline:none;
+    padding:10px;
+    display:block;
+    width:300px;
+    border-radius: 3px;
+    border:1px solid #eee;
+    margin:20px auto;
+}
+
+input[type="submit"]{
+    padding:10px;
+    color:#fff;
+    background:#0098cb;
+    width:320px;
+    margin:20px auto;
+    margin-top:0px;
+    border:0px;
+    border-radius: 3px;
+    cursor:pointer;
+}
+
+input[type="submit"]:hover{
+    background:#00b8eb;
+}
+.logcolor {
+    color: white;
+}
